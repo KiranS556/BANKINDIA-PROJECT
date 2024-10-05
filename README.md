@@ -14,4 +14,4 @@ This project is a simple banking system, **BANKINDIA**, developed in Python. It 
 
 The system is designed to handle basic banking functionalities. A full explanation of the code is provided in the video linked below.
 
-video link:
+video link:https://drive.google.com/file/d/1HFpDatQXXaHgCQ9s3hEergRQEHJnB8bO/view?usp=drive_link
